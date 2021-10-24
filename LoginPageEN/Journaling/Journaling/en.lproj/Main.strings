@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; text = "Content"; ObjectID = "1gp-qO-u94"; */
+"1gp-qO-u94.text" = "Content";
+
+/* Class = "UITextField"; text = "Title"; ObjectID = "DgM-wd-BR7"; */
+"DgM-wd-BR7.text" = "Title";
+
+/* Class = "UIButton"; configuration.title = "Add Journal"; ObjectID = "Mis-1d-wNF"; */
+"Mis-1d-wNF.configuration.title" = "Add Journal";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mis-1d-wNF"; */
+"Mis-1d-wNF.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Your journal here"; ObjectID = "O7N-cB-FyR"; */
+"O7N-cB-FyR.placeholder" = "Your journal here";
+
+/* Class = "UILabel"; text = "My journal"; ObjectID = "OG9-jJ-Z7t"; */
+"OG9-jJ-Z7t.text" = "My journal";
+
+/* Class = "UINavigationItem"; title = "empathie"; ObjectID = "SnX-JI-r9l"; */
+"SnX-JI-r9l.title" = "empathie";
+
+/* Class = "UITextField"; placeholder = "Title of your journal"; ObjectID = "aAv-4T-6so"; */
+"aAv-4T-6so.placeholder" = "Title of your journal";
