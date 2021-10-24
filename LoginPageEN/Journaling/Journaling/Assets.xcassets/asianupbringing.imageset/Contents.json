@@ -1,11 +1,11 @@
 {
   "images" : [
     {
+      "filename" : "Photo (2).png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "empathie.svg",
       "idiom" : "universal",
       "scale" : "2x"
     },
