@@ -18,6 +18,7 @@
 		3154BB7C2724D46E00D586A1 /* JournalTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3154BB7B2724D46E00D586A1 /* JournalTableView.swift */; };
 		3154BB812724E07D00D586A1 /* Journaling.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3154BB7F2724E07D00D586A1 /* Journaling.xcdatamodeld */; };
 		3154BB832724E3CC00D586A1 /* Journal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3154BB822724E3CC00D586A1 /* Journal.swift */; };
+		3154BB87272575E400D586A1 /* UnderstandingAVPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3154BB86272575E400D586A1 /* UnderstandingAVPView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		3154BB7B2724D46E00D586A1 /* JournalTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalTableView.swift; sourceTree = "<group>"; };
 		3154BB802724E07D00D586A1 /* Journaling.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Journaling.xcdatamodel; sourceTree = "<group>"; };
 		3154BB822724E3CC00D586A1 /* Journal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Journal.swift; sourceTree = "<group>"; };
+		3154BB86272575E400D586A1 /* UnderstandingAVPView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingAVPView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				3154BB6F2724B0D200D586A1 /* Info.plist */,
 				3154BB752724BFC200D586A1 /* JournalDetailVC.swift */,
 				3154BB7F2724E07D00D586A1 /* Journaling.xcdatamodeld */,
+				3154BB86272575E400D586A1 /* UnderstandingAVPView.swift */,
 			);
 			path = Journaling;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				3154BB7C2724D46E00D586A1 /* JournalTableView.swift in Sources */,
 				3154BB832724E3CC00D586A1 /* Journal.swift in Sources */,
 				3154BB622724B0D100D586A1 /* AppDelegate.swift in Sources */,
+				3154BB87272575E400D586A1 /* UnderstandingAVPView.swift in Sources */,
 				3154BB642724B0D100D586A1 /* SceneDelegate.swift in Sources */,
 				3154BB7A2724D42200D586A1 /* JournalCell.swift in Sources */,
 				3154BB762724BFC200D586A1 /* JournalDetailVC.swift in Sources */,

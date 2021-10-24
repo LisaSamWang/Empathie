@@ -70,8 +70,8 @@ class JournalDetailVC: UIViewController
         }
     }
     
-        @IBAction func DeleteJournal(_ sender: Any)
-        {
+
+    @IBAction func DeleteJournal(_ sender: Any) {
             let appDelegate = UIApplication.shared.delegate as! AppDelegate
             let context: NSManagedObjectContext = appDelegate.persistentContainer.viewContext
             
